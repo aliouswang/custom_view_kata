@@ -3,6 +3,7 @@
     package="com.example.aliouswang.custom_view_kata">
 
     <application
+        android:name=".BaseApp"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
